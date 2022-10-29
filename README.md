@@ -1,5 +1,5 @@
-# IBM-Project-52449-1661004339
-#TITLE:
+ IBM-Project-52449-1661004339
+TITLE:
 A Novel Method for Handwritten Digit Recognition System
 Category:
 
@@ -18,15 +18,17 @@ MNIST data set is widely used for this recognition process and it has 70000 hand
 a deep learning model. A web application is created where the user can upload an image of a handwritten digit. This image is analyzed by the model and the detected
 result is returned on to UI.
 
-#Technical Architecture:
+Technical Architecture:
 ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcareereducation.smartinternz.com%2Fsaas-guided-project%2F3%2Fa-novel-method-for-handwritten-digit-recognition-system&psig=AOvVaw1LURCJMUCaegJV9hEKNynw&ust=1667119902317000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMDczNmHhfsCFQAAAAAdAAAAABAE
 GOAL:
 Artificial intelligence technology using superiority to handle huge and nonlinear data owing to their higher accuracy and efficiency,making them perfect tools for
 natural disaster monitoring and management.
-# Beneficial Users:
+ Beneficial Users:
 1.officers<br/>
 2.Environment
-#Team:
+
+Team:
+
 Team Leader-MUBASHSHIRA.S<br/>
 Team member1-NITHYA M<br/>
 Team member 2-SANTHIYA B<br/>
